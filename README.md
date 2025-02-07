@@ -73,10 +73,6 @@ model = joblib.load("saved_models/model.pkl")
 - Use **Hyperparameter Tuning** for optimization.
 - Deploy model using **Flask or Streamlit**.
 
-## 🤝 Contributing
-Pull requests are welcome! Feel free to fork and contribute. 😊
-
-
 ---
 📌 **Author**: Sama Ahmed
 📧 **Contact**: samaabdelaal275@gmail.com
